@@ -1,0 +1,26 @@
+{
+  "name": "SwitchFramework",
+  "version": "1.0.0",
+  "summary": "Kanvas Face Tracking",
+  "homepage": "http://getkanvas.com/",
+  "authors": {
+    "Name": "tony@getkanvas.com"
+  },
+  "license": {
+    "type": "proprietary",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "http": "http://getkanvas.com"
+  },
+  "frameworks": [
+    "UIKit",
+    "SystemConfiguration",
+    "Security",
+    "SceneKit"
+  ],
+  "vendored_frameworks": "SwitchFramework.framework"
+}

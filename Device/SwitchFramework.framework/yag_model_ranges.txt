@@ -1,0 +1,14 @@
+6
+Open Mouth 1
+Raise Left Outer Eyebrow 1
+Raise Nose Bridge 1
+Raise Right Outer Eyebrow 1
+Smile 1
+Stretch Lips 1
+6
+Open Mouth 0
+Raise Left Outer Eyebrow -1
+Raise Nose Bridge -1
+Raise Right Outer Eyebrow -1
+Smile -1
+Stretch Lips -1
